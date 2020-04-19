@@ -1,0 +1,37 @@
+[
+  {
+    "employeeId" : 1111,
+    "employeeName" : "Amsidh B Lokhande",
+    "mobileNumber" :  8108551845,
+    "emailId" : "amsidhlokhande@gmail.com",
+    "salary" : 85412
+  },
+  {
+    "employeeId" : 2,
+    "employeeName" : "Aditya Lokhande",
+    "mobileNumber" :  8108551834,
+    "emailId" : "adityalokhande14032013@gmail.com",
+    "salary" : 85412
+  },
+  {
+    "employeeId" : 3,
+    "employeeName" : "Adithi Lokhande",
+    "mobileNumber" :  8108551845,
+    "emailId" : "adithilokhande01102010@gmail.com",
+    "salary" : 42
+  },
+  {
+    "employeeId" : 4,
+    "employeeName" : "Anjali Lokhande",
+    "mobileNumber" :  8108551845,
+    "emailId" : "anjalilokhande@gmail.com",
+    "salary" : 4232
+  },
+  {
+    "employeeId" : 15,
+    "employeeName" : "Raju Lokhande",
+    "mobileNumber" :  775464543,
+    "emailId" : "rajulokhande@gmail.com",
+    "salary" : 765653
+  }
+]
